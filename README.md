@@ -4,7 +4,7 @@
 
 ### 🎓 Curso: <a href="https://www.cursoemvideo.com/curso/html5-css3-modulo1/" target="_blank" rel="external">Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS]</a>
 
-### 👨‍🏫 <a href="https://github.com/gustavoguanabara/" target="_blank" rel="external">Professor Gustavo Guanabara</a>
+#### 👨‍🏫 <a href="https://github.com/gustavoguanabara/" target="_blank" rel="external">Professor Gustavo Guanabara</a>
 
 #### 🛠️ Tecnologias e ferramentas utilizadas:
 
